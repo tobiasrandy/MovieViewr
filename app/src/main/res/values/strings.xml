@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieViewr</string>
+    <string name="error_alert">An error occured: %1$s</string>
+    <string name="review_by">A review by %1$s</string>
+    <string name="see_more_reviews">See More Reviews</string>
+    <string name="review">Review</string>
+    <string name="trailer">Trailer</string>
+    <string name="movie_header">Movie Header</string>
+    <string name="retry">retry</string>
+    <string name="no_review_to_display">No Review to Display</string>
+    <string name="back_arrow">Back Arrow</string>
+</resources>
