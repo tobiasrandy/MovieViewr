@@ -9,7 +9,7 @@ MovieViewr is an Android application that offers users a seamless experience in 
 - Review Reading: Users can read reviews for selected movies from the movie details screen.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/MovieViewr.git`
+1. Clone the repository: `git clone https://github.com/tobiasrandy/MovieViewr.git`
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
 
